@@ -1,6 +1,6 @@
 # Boilerplate for MS Teams App
 
-![Microsoft Teams App Boilerplate](https://repository-images.githubusercontent.com/302612900/b918b380-0bfc-11eb-8ebb-811ad6be9815)
+![Microsoft Teams App Boilerplate](https://repository-images.githubusercontent.com/307682489/1a7d8b00-1869-11eb-919a-3ee0a1edfef3)
 
 ## The most cool MS Teams App template
 
