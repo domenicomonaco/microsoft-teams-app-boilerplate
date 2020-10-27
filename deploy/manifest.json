@@ -1,0 +1,59 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.7",
+    "version": "{version}",
+    "id": "6ef9de6e-b04a-4a7a-a11e-b1c4a0894306",
+    "packageName": "com.microsoft.teams.boilerplateteamsapp",
+    "showLoadingIndicator": false,
+    "developer": {
+        "name": "Domenico Monaco",
+        "websiteUrl": "{baseUrl0}",
+        "privacyUrl": "{baseUrl0}/privacy",
+        "termsOfUseUrl": "{baseUrl0}/termsofuse"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "{appname}",
+        "full": "{fullappname}"
+    },
+    "description": {
+        "short": "The most cool MS Teams App template",
+        "full": "{appname} helps you kick-start build fast web apps for Microsoft Teams."
+    },
+    "accentColor": "#FFFFFF",
+    "configurableTabs": [
+        {
+            "configurationUrl": "{baseUrl0}/config",
+            "canUpdateConfiguration": true,
+            "scopes": [
+                "team",
+                "groupchat"
+            ]
+        }
+    ],
+    "staticTabs": [
+        {
+            "entityId": "index",
+            "name": "Custom Tab",
+            "contentUrl": "{baseUrl0}/tab",
+            "scopes": [
+                "personal"
+            ]
+        },
+        {
+            "entityId": "context",
+            "name": "Context Info Tab",
+            "contentUrl": "{baseUrl0}/tab_contextinfo",
+            "scopes": [
+                "personal"
+            ]
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ]
+}
