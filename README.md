@@ -2,6 +2,14 @@
 
 ![Microsoft Teams App Boilerplate](https://repository-images.githubusercontent.com/307682489/1a7d8b00-1869-11eb-919a-3ee0a1edfef3)
 
+### Sponsored by
+
+[<img align="left" style="margin:5px" src="http://cdn.tecnologieperpersone.it/img/dmonaco_happy_hacking.png" height="64" />](https://blog.domenicomonaco.it)
+
+[<img style="margin:5px" src="http://cdn.tecnologieperpersone.it/img/tecnologie-per-persone-logo.png" height="64" />](https://tecnologieperpersone.it)
+
+
+
 ## The most cool MS Teams App template
 
 Zero-friction kick-start MS teams App development boilerplate with ReactJS and NodeJS.
